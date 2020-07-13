@@ -1,0 +1,6 @@
+{
+    "env" :{
+        "mongo_client_password" : "newuser",
+        "JWT_WEB_KEY" : "secret"
+    }
+}
